@@ -1,0 +1,1 @@
+cmd_/home/jishnu/rtlwifi_new/rtl8192c/rtl8192c-common.o := ld -m elf_x86_64 -z max-page-size=0x200000   -r -o /home/jishnu/rtlwifi_new/rtl8192c/rtl8192c-common.o /home/jishnu/rtlwifi_new/rtl8192c/main.o /home/jishnu/rtlwifi_new/rtl8192c/dm_common.o /home/jishnu/rtlwifi_new/rtl8192c/fw_common.o /home/jishnu/rtlwifi_new/rtl8192c/phy_common.o 

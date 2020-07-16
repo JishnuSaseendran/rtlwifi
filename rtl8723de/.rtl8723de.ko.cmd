@@ -1,0 +1,1 @@
+cmd_/home/jishnu/rtlwifi_new/rtl8723de/rtl8723de.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/jishnu/rtlwifi_new/rtl8723de/rtl8723de.ko /home/jishnu/rtlwifi_new/rtl8723de/rtl8723de.o /home/jishnu/rtlwifi_new/rtl8723de/rtl8723de.mod.o ;  true

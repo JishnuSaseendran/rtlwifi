@@ -1,0 +1,1 @@
+cmd_/home/jishnu/rtlwifi_new/rtl8192c/rtl8192c-common.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/jishnu/rtlwifi_new/rtl8192c/rtl8192c-common.ko /home/jishnu/rtlwifi_new/rtl8192c/rtl8192c-common.o /home/jishnu/rtlwifi_new/rtl8192c/rtl8192c-common.mod.o ;  true
